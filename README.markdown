@@ -46,7 +46,7 @@ Below are screenshots showcasing the app's object detection capabilities:
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/ObjectD.git
+   git clone https://github.com/0Jahid/ObjectD.git
    cd ObjectD
    ```
 
