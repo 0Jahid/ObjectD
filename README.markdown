@@ -1,4 +1,3 @@
-```markdown
 # ObjectD - Real-Time Object Detection Android App
 
 This sample implements an Activity that performs real-time object detection on live camera frames. It performs the following operations:
@@ -35,7 +34,7 @@ Below are screenshots showcasing the app's object detection capabilities:
    ![Laptop Detection](ss/laptop.jpg)  
    Detects a laptop with a confidence score of 0.74.
 
-*Note*: Ensure the screenshot files (`bed_detection.jpg`, `cell_phone_detection.jpg`, `banana_detection.jpg`, `laptop_detection.jpg`) are placed in the `ss` directory of the repository.
+
 
 ## Installation
 
